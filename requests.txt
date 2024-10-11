@@ -1,0 +1,16 @@
+
+
+    REquest Types : 
+
+        localhost:3000/students       GET  => Get Requests to get data
+        localhost:3000/students       POST => Requests to create a new data 
+        localhost:3000/students/:id   GET 
+        localhost:3000/students/:id   DELETE => REquest to DELETE Data
+        localhost:3000/students/:id   PUT  => Request To Update Data 
+
+    CRUD OPERATION : 
+
+        Create
+        Read
+        Update
+        Delete
